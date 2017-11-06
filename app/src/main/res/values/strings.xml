@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpeechStreaming</string>
+    <string name="start">Começar stream</string>
+    <string name="end">Terminar stream</string>
+</resources>
